@@ -1,6 +1,7 @@
 ## Rabel
 
 基于 Ruby on Rails 框架开发的开源论坛系统。
+经过一点小修改, 能够成功部署至heroku
 
 ## 理念
 
